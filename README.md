@@ -1,14 +1,9 @@
 # DCAS++: A small object detection method for traffic scenes integrating four-scale high-resolution detection and object-aware dynamic aggregation
 
-<div align=center>
-<img src="./ultralytics/assets/VisDrone_mAP_Params.png" alt="VisDrone_mAP_Params" width = "549" />
-</div>
-
-
 ## <div align="center">Documentation</div>
 
 ### Benchmark
-| **Model**     | **Datasets** |  **mAP@0.5<sup>val**  | **mAP@0.5:0.95<sup>val** | **Params** | **Weight**                                                                                           |
+| **Model**     | **Datasets** |  **mAP@0.5**  | **mAP@0.5:0.95** | **Params** | **Weight**                                                                                           |
 |:-------------:|:------------:|:---------------------:|:------------------------:|:----------:|:----------------------------------------------------------------------------------------------------:|
 | YOLOv8s       | VisDrone     |         33.1%         |          18.9%           | 11.1M      | [Download](https://pan.baidu.com/s/1fvyu_ZMK8CFsWPI69ClVKA?pwd=m5ja) |
 | DCAS++  | VisDrone     |         39.8%         |          23.4%           | 5.5M      | [Download](https://pan.baidu.com/s/1ZR0aqnQ-pTGmIP8uOZ06KQ?pwd=ptb8) |
